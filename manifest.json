@@ -1,0 +1,16 @@
+{
+  "name": "Pái — Mandarim de Quadra",
+  "short_name": "Pái",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#e4e2df",
+  "theme_color": "#e4e2df",
+  "lang": "pt-BR",
+  "icons": [
+    {
+      "src": "./icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}
